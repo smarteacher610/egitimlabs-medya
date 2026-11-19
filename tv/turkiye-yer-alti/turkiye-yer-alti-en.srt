@@ -1,59 +1,59 @@
 1
-00:00:00,150 --> 00:00:02,870
+00:00:00,150 --> 00:00:03,202
 What if the ground beneath one country
 
 2
-00:00:03,150 --> 00:00:07,214
+00:00:03,482 --> 00:00:07,910
 held almost three quarters of a mineral the whole world needs?
 
 3
-00:00:07,664 --> 00:00:10,948
+00:00:08,360 --> 00:00:12,613
 This is Türkiye. And that mineral is boron,
 
 4
-00:00:11,228 --> 00:00:17,394
+00:00:12,893 --> 00:00:17,469
 found in glass, powerful magnets and even nuclear shielding.
 
 5
-00:00:17,674 --> 00:00:22,398
+00:00:17,749 --> 00:00:22,430
 Türkiye holds about seventy-three percent of the world's reserves.
 
 6
-00:00:22,848 --> 00:00:24,496
+00:00:22,880 --> 00:00:24,533
 Then there's stone.
 
 7
-00:00:24,776 --> 00:00:29,519
+00:00:24,813 --> 00:00:29,751
 Around forty percent of the world's natural stone reserves are here,
 
 8
-00:00:29,799 --> 00:00:32,304
+00:00:30,031 --> 00:00:33,115
 including the marble the Romans carved.
 
 9
-00:00:32,754 --> 00:00:34,834
+00:00:33,565 --> 00:00:35,409
 Deep under the Black Sea,
 
 10
-00:00:35,114 --> 00:00:41,576
+00:00:35,689 --> 00:00:42,358
 Türkiye found an estimated seven hundred eighty-five billion cubic meters of natural gas.
 
 11
-00:00:42,026 --> 00:00:49,774
+00:00:42,808 --> 00:00:49,750
 And in Eskişehir, officials say they found six hundred ninety-four million tons of rare earth ore,
 
 12
-00:00:50,054 --> 00:00:53,983
+00:00:50,030 --> 00:00:53,772
 the elements inside wind turbines and electric motors.
 
 13
-00:00:54,433 --> 00:01:02,800
+00:00:54,222 --> 00:01:02,474
 Altogether, the industry estimates Türkiye's untapped underground wealth at three point five trillion dollars.
 
 14
-00:01:03,250 --> 00:01:04,693
+00:01:02,924 --> 00:01:04,412
 The real question is:
 
 15
-00:01:04,973 --> 00:01:07,408
+00:01:04,692 --> 00:01:07,224
 who will turn it into technology?

@@ -5,7 +5,7 @@
    "kanca": "What's hiding *under Türkiye*?",
    "kanca_ust": 320,
    "bas": 0.15,
-   "son": 7.664
+   "son": 8.36
   },
   {
    "tip": "kristal",
@@ -14,9 +14,9 @@
    "son_ek": "%",
    "birim": "of the world's reserves",
    "sayi_kelime": "seventy-three",
-   "bas": 7.664,
-   "son": 22.848,
-   "sayi_bas": 11.342,
+   "bas": 8.36,
+   "son": 22.88,
+   "sayi_bas": 10.708,
    "sayi_sure": 1.5
   },
   {
@@ -26,9 +26,9 @@
    "son_ek": "%",
    "birim": "of the world's natural stone",
    "sayi_kelime": "forty percent",
-   "bas": 22.848,
-   "son": 32.754,
-   "sayi_bas": 2.316,
+   "bas": 22.88,
+   "son": 33.565,
+   "sayi_bas": 2.342,
    "sayi_sure": 1.5
   },
   {
@@ -37,9 +37,9 @@
    "sayi": 785,
    "birim": "billion m³ of natural gas",
    "sayi_kelime": "seven hundred",
-   "bas": 32.754,
-   "son": 42.026,
-   "sayi_bas": 4.22,
+   "bas": 33.565,
+   "son": 42.808,
+   "sayi_bas": 4.047,
    "sayi_sure": 1.5
   },
   {
@@ -51,9 +51,9 @@
    "birim": "tons of rare earth ore",
    "not": "Official estimate · Resmî tahmin",
    "sayi_kelime": "six hundred",
-   "bas": 42.026,
-   "son": 54.433,
-   "sayi_bas": 3.3,
+   "bas": 42.808,
+   "son": 54.222,
+   "sayi_bas": 2.946,
    "sayi_sure": 1.5
   },
   {
@@ -119,139 +119,140 @@
     }
    ],
    "sayi_kelime": "three point five",
-   "bas": 54.433,
-   "son": 63.25,
-   "sayi_bas": 5.681,
+   "bas": 54.222,
+   "son": 62.924,
+   "sayi_bas": 5.601,
    "sayi_sure": 1.5
   },
   {
    "tip": "soru",
    "kanca": "Who will turn it into *technology*?",
    "kanca_ust": 330,
-   "bas": 63.25,
-   "son": 68.358
+   "bas": 62.924,
+   "son": 68.174
   },
   {
    "tip": "kapanis",
    "yazi": "Daha fazlası için takip et",
    "tus": "Takip et",
    "sure": 2.4,
-   "bas": 68.358,
-   "son": 70.758
+   "bas": 68.174,
+   "son": 70.574
   }
  ],
  "altyazi": [
   {
    "bas": 0.2,
-   "son": 2.889,
+   "son": 3.142,
    "metin": "Ya bir ülkenin toprağı, tüm dünyanın"
   },
   {
-   "bas": 2.769,
-   "son": 5.672,
+   "bas": 3.022,
+   "son": 6.199,
    "metin": "ihtiyaç duyduğu bir mineralin neredeyse"
   },
   {
-   "bas": 5.552,
-   "son": 7.384,
+   "bas": 6.079,
+   "son": 8.08,
    "metin": "dörtte üçünü saklıyorsa?"
   },
   {
-   "bas": 7.714,
-   "son": 11.673,
+   "bas": 8.41,
+   "son": 12.196,
    "metin": "Burası Türkiye. O mineral bor: camda,"
   },
   {
-   "bas": 11.553,
-   "son": 15.201,
+   "bas": 12.076,
+   "son": 15.565,
    "metin": "güçlü mıknatıslarda, hatta nükleer"
   },
   {
-   "bas": 15.081,
-   "son": 18.418,
+   "bas": 15.445,
+   "son": 18.636,
    "metin": "kalkanlarda kullanılıyor. Dünya"
   },
   {
-   "bas": 18.298,
-   "son": 22.568,
+   "bas": 18.516,
+   "son": 22.6,
    "metin": "rezervlerinin yaklaşık %73'ü Türkiye'de."
   },
   {
-   "bas": 22.898,
-   "son": 26.023,
+   "bas": 22.93,
+   "son": 26.302,
    "metin": "Bir de taş var. Dünyanın doğal taş"
   },
   {
-   "bas": 25.903,
-   "son": 29.204,
+   "bas": 26.182,
+   "son": 29.746,
    "metin": "rezervlerinin yaklaşık %40'ı burada;"
   },
   {
-   "bas": 29.084,
-   "son": 32.474,
+   "bas": 29.626,
+   "son": 33.285,
    "metin": "Romalıların yonttuğu mermer de dahil."
   },
   {
-   "bas": 32.804,
-   "son": 36.954,
+   "bas": 33.615,
+   "son": 37.752,
    "metin": "Karadeniz'in derinliklerinde Türkiye,"
   },
   {
-   "bas": 36.834,
-   "son": 41.093,
+   "bas": 37.632,
+   "son": 41.877,
    "metin": "tahminen 785 milyar metreküp doğal gaz"
   },
   {
-   "bas": 40.973,
-   "son": 41.746,
+   "bas": 41.757,
+   "son": 42.528,
    "metin": "buldu."
   },
   {
-   "bas": 42.076,
-   "son": 45.126,
+   "bas": 42.858,
+   "son": 45.665,
    "metin": "Eskişehir'de ise yetkililere göre 694"
   },
   {
-   "bas": 45.006,
-   "son": 48.293,
+   "bas": 45.545,
+   "son": 48.569,
    "metin": "milyon ton nadir toprak elementi cevheri"
   },
   {
-   "bas": 48.173,
-   "son": 51.54,
+   "bas": 48.449,
+   "son": 51.546,
    "metin": "bulundu; rüzgâr türbinlerinin ve elektrik"
   },
   {
-   "bas": 51.42,
-   "son": 54.153,
+   "bas": 51.426,
+   "son": 53.942,
    "metin": "motorlarının içindeki elementler."
   },
   {
-   "bas": 54.483,
-   "son": 58.216,
+   "bas": 54.272,
+   "son": 57.956,
    "metin": "Sektörün tahminine göre Türkiye'nin el"
   },
   {
-   "bas": 58.096,
-   "son": 61.638,
+   "bas": 57.836,
+   "son": 61.331,
    "metin": "değmemiş yer altı serveti toplam 3,5"
   },
   {
-   "bas": 61.518,
-   "son": 62.97,
+   "bas": 61.211,
+   "son": 62.644,
    "metin": "trilyon dolar."
   },
   {
-   "bas": 63.3,
-   "son": 66.428,
+   "bas": 62.974,
+   "son": 66.205,
    "metin": "Asıl soru şu: Bunu teknolojiye kim"
   },
   {
-   "bas": 66.308,
-   "son": 67.578,
+   "bas": 66.085,
+   "son": 67.394,
    "metin": "dönüştürecek?"
   }
  ],
- "toplam": 70.76,
- "logo": "doku/logo.png"
+ "toplam": 70.57,
+ "logo": "doku/logo.png",
+ "ses": "Gemini Algieba"
 }
