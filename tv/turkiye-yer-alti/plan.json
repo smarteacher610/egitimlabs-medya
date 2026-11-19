@@ -1,0 +1,258 @@
+{
+ "sahneler": [
+  {
+   "tip": "dunya",
+   "kanca": "What's hiding *under Türkiye*?",
+   "kanca_ust": 320,
+   "bas": 0.15,
+   "son": 9.164
+  },
+  {
+   "tip": "kristal",
+   "etiket": "Boron · Bor",
+   "sayi": 73,
+   "son_ek": "%",
+   "birim": "of the world's reserves",
+   "sayi_bas_parca": 2,
+   "bas": 9.164,
+   "son": 22.26,
+   "sayi_bas": 11.24,
+   "sayi_sure": 1.5
+  },
+  {
+   "tip": "mermer",
+   "etiket": "Natural stone · Doğal taş",
+   "sayi": 40,
+   "son_ek": "%",
+   "birim": "of the world's natural stone",
+   "sayi_bas_parca": 1,
+   "bas": 22.26,
+   "son": 30.317,
+   "sayi_bas": 4.298,
+   "sayi_sure": 1.5
+  },
+  {
+   "tip": "deniz",
+   "etiket": "Black Sea · Karadeniz",
+   "sayi": 785,
+   "birim": "billion m³ of natural gas",
+   "sayi_bas_parca": 1,
+   "bas": 30.317,
+   "son": 38.421,
+   "sayi_bas": 1.704,
+   "sayi_sure": 1.5
+  },
+  {
+   "tip": "katman",
+   "etiket": "Rare earths · Nadir toprak",
+   "sayi": 694,
+   "on": "",
+   "son_ek": "M",
+   "birim": "tons of rare earth ore",
+   "not": "Official estimate · Resmî tahmin",
+   "sayi_bas_parca": 0,
+   "sayi_bas_oran": 0.55,
+   "bas": 38.421,
+   "son": 49.305,
+   "sayi_bas": 5.986,
+   "sayi_sure": 1.5
+  },
+  {
+   "tip": "harita",
+   "etiket": "Untapped wealth · Yer altı serveti",
+   "sayi": 3.5,
+   "ondalik": 1,
+   "on": "$",
+   "son_ek": "T",
+   "birim": "industry estimate",
+   "sayi_bas_oran": 0.6,
+   "pinler": [
+    {
+     "ad": "Boron",
+     "alt": "Kırka",
+     "lon": 30.53,
+     "lat": 39.29,
+     "renk": [
+      0.55,
+      0.8,
+      1.0
+     ],
+     "dx": -95,
+     "dy": 95
+    },
+    {
+     "ad": "Marble",
+     "alt": "Marmara",
+     "lon": 27.62,
+     "lat": 40.62,
+     "renk": [
+      0.95,
+      0.93,
+      0.9
+     ],
+     "dx": -10,
+     "dy": -5
+    },
+    {
+     "ad": "Gas",
+     "alt": "Black Sea",
+     "lon": 31.6,
+     "lat": 42.35,
+     "renk": [
+      1.0,
+      0.6,
+      0.2
+     ],
+     "dx": 150,
+     "dy": 45
+    },
+    {
+     "ad": "Rare earths",
+     "alt": "Beylikova",
+     "lon": 31.21,
+     "lat": 39.69,
+     "renk": [
+      0.2,
+      0.9,
+      0.8
+     ],
+     "dx": 120,
+     "dy": -30
+    }
+   ],
+   "bas": 49.305,
+   "son": 56.35,
+   "sayi_bas": 4.227,
+   "sayi_sure": 1.5
+  },
+  {
+   "tip": "soru",
+   "kanca": "Who will turn it into *technology*?",
+   "kanca_ust": 330,
+   "bas": 56.35,
+   "son": 60.85
+  },
+  {
+   "tip": "kapanis",
+   "yazi": "Daha fazlası için takip et",
+   "tus": "Takip et",
+   "sure": 2.4,
+   "bas": 60.85,
+   "son": 63.25
+  }
+ ],
+ "altyazi": [
+  {
+   "bas": 0.2,
+   "son": 3.434,
+   "metin": "Ya bir ülkenin toprağı, tüm dünyanın"
+  },
+  {
+   "bas": 3.314,
+   "son": 6.808,
+   "metin": "ihtiyaç duyduğu bir mineralin neredeyse"
+  },
+  {
+   "bas": 6.688,
+   "son": 8.884,
+   "metin": "dörtte üçünü saklıyorsa?"
+  },
+  {
+   "bas": 9.214,
+   "son": 12.629,
+   "metin": "Burası Türkiye. O mineral bor: camda,"
+  },
+  {
+   "bas": 12.509,
+   "son": 15.657,
+   "metin": "güçlü mıknatıslarda, hatta nükleer"
+  },
+  {
+   "bas": 15.537,
+   "son": 18.418,
+   "metin": "kalkanlarda kullanılıyor. Dünya"
+  },
+  {
+   "bas": 18.298,
+   "son": 21.98,
+   "metin": "rezervlerinin yaklaşık %73'ü Türkiye'de."
+  },
+  {
+   "bas": 22.31,
+   "son": 24.847,
+   "metin": "Bir de taş var. Dünyanın doğal taş"
+  },
+  {
+   "bas": 24.727,
+   "son": 27.406,
+   "metin": "rezervlerinin yaklaşık %40'ı burada;"
+  },
+  {
+   "bas": 27.286,
+   "son": 30.037,
+   "metin": "Romalıların yonttuğu mermer de dahil."
+  },
+  {
+   "bas": 30.367,
+   "son": 33.983,
+   "metin": "Karadeniz'in derinliklerinde Türkiye,"
+  },
+  {
+   "bas": 33.863,
+   "son": 37.574,
+   "metin": "tahminen 785 milyar metreküp doğal gaz"
+  },
+  {
+   "bas": 37.454,
+   "son": 38.141,
+   "metin": "buldu."
+  },
+  {
+   "bas": 38.471,
+   "son": 41.148,
+   "metin": "Eskişehir'de ise yetkililere göre 694"
+  },
+  {
+   "bas": 41.028,
+   "son": 43.912,
+   "metin": "milyon ton nadir toprak elementi cevheri"
+  },
+  {
+   "bas": 43.792,
+   "son": 46.745,
+   "metin": "bulundu; rüzgâr türbinlerinin ve elektrik"
+  },
+  {
+   "bas": 46.625,
+   "son": 49.025,
+   "metin": "motorlarının içindeki elementler."
+  },
+  {
+   "bas": 49.355,
+   "son": 52.323,
+   "metin": "Sektörün tahminine göre Türkiye'nin el"
+  },
+  {
+   "bas": 52.203,
+   "son": 55.021,
+   "metin": "değmemiş yer altı serveti toplam 3,5"
+  },
+  {
+   "bas": 54.901,
+   "son": 56.07,
+   "metin": "trilyon dolar."
+  },
+  {
+   "bas": 56.4,
+   "son": 58.925,
+   "metin": "Asıl soru şu: Bunu teknolojiye kim"
+  },
+  {
+   "bas": 58.805,
+   "son": 59.845,
+   "metin": "dönüştürecek?"
+  }
+ ],
+ "toplam": 63.25,
+ "logo": "file:///home/runner/work/instagram-otomasyon/instagram-otomasyon/ana/varliklar/logo-yatay-beyaz.png"
+}
