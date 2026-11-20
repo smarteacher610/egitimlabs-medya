@@ -1,59 +1,47 @@
 {
  "sahneler": [
   {
-   "tip": "stok",
-   "ara": [
-    "octopus close up",
-    "octopus underwater",
-    "octopus"
-   ],
+   "tip": "klip",
+   "klip": "Close-up of a common octopus resting on a dark rocky reef, its large eye looking toward the camera and its skin slowly pulsing; then it pushes off the rocks and swims away through open blue water with its arms trailing behind it. Sunlight rays from the surface, fine particles drifting, one continuous slow cinematic shot",
    "kanca": "Three hearts and *blue blood*",
    "kanca_ust": 320,
    "bas": 0.15,
-   "son": 5.372,
-   "klip_id": "stok0-119818",
-   "klip_kare": 172
+   "son": 6.087,
+   "temsili": true,
+   "klip_id": "d982020dd718b30e",
+   "klip_kare": 240,
+   "klip_toplam": 16.055
   },
   {
-   "tip": "stok",
-   "ara": [
-    "octopus swimming",
-    "octopus sea",
-    "octopus"
-   ],
+   "tip": "klip",
    "etiket": "Octopus · Ahtapot",
    "sayi": 3,
    "birim": "hearts",
    "sayi_kelime": "two hearts",
    "terim": "gills · solungaçlar",
-   "bas": 5.372,
-   "son": 16.149,
+   "klip_devam": true,
+   "bas": 6.087,
+   "son": 16.205,
    "sayi_bas": -0.1,
    "sayi_sure": 1.5,
-   "klip_id": "stok1-1198",
-   "klip_kare": 338
+   "klip_id": "d982020dd718b30e",
+   "klip_kare": 240,
+   "temsili": true,
+   "klip_bas": 5.937,
+   "klip_toplam": 16.055
   },
   {
    "tip": "stok",
-   "ara": [
-    "octopus tentacles",
-    "octopus eye",
-    "octopus"
-   ],
    "etiket": "Hemocyanin · Hemosiyanin",
    "birim": "copper carries the oxygen",
-   "bas": 16.149,
-   "son": 22.87,
-   "klip_id": "stok2-31722",
-   "klip_kare": 217
+   "pixabay_id": 329847,
+   "bas": 16.205,
+   "son": 23.507,
+   "klip_id": "stok2",
+   "klip_kare": 234
   },
   {
    "tip": "stok",
-   "ara": [
-    "octopus suckers",
-    "octopus tentacle",
-    "octopus arm"
-   ],
    "etiket": "Neurons · Nöronlar",
    "sayi": 2000,
    "son_ek": "+",
@@ -61,12 +49,13 @@
    "not": "2/3 of its neurons are in its arms · Nöronlarının 2/3'ü kollarında",
    "sayi_kelime": "two thousand",
    "terim": "suckers · vantuzlar",
-   "bas": 22.87,
-   "son": 31.591,
-   "sayi_bas": 6.693,
+   "pixabay_id": 326223,
+   "bas": 23.507,
+   "son": 33.362,
+   "sayi_bas": 7.831,
    "sayi_sure": 1.5,
-   "klip_id": "stok3-173219",
-   "klip_kare": 277
+   "klip_id": "stok3",
+   "klip_kare": 301
   },
   {
    "tip": "klip",
@@ -74,124 +63,121 @@
    "klip": "Close-up of a common octopus on a rocky reef rapidly changing the colour and texture of its skin to camouflage against the rocks, waves of colour rippling across its body, clear blue water, soft sunlight",
    "etiket": "Camouflage · Kamuflaj",
    "terim": "receptor · algılayıcı",
-   "bas": 31.591,
-   "son": 40.65,
+   "bas": 33.362,
+   "son": 43.056,
    "temsili": true,
    "klip_id": "144dece75e7a19f8",
    "klip_kare": 240
   },
   {
    "tip": "stok",
-   "ara": [
-    "octopus reef",
-    "octopus hiding",
-    "octopus"
-   ],
    "kanca": "Imagine what it could *learn*",
    "kanca_ust": 330,
-   "bas": 40.65,
-   "son": 48.854,
-   "klip_id": "stok5-152482",
-   "klip_kare": 261
+   "pixabay_id": 327852,
+   "bas": 43.056,
+   "son": 50.956,
+   "klip_id": "stok5",
+   "klip_kare": 252
   },
   {
    "tip": "kapanis",
    "yazi": "Daha fazlası için takip et",
    "tus": "Takip et",
    "sure": 2.4,
-   "bas": 48.854,
-   "son": 51.254
+   "bas": 50.956,
+   "son": 53.356
   }
  ],
  "altyazi": [
   {
    "bas": 0.2,
-   "son": 5.092,
+   "son": 5.807,
    "metin": "Bu hayvanın üç kalbi var. Ve kanı mavi."
   },
   {
-   "bas": 5.422,
-   "son": 8.515,
+   "bas": 6.137,
+   "son": 9.04,
    "metin": "İki kalp kanı solungaçlara pompalıyor."
   },
   {
-   "bas": 8.395,
-   "son": 11.801,
+   "bas": 8.92,
+   "son": 12.116,
    "metin": "Üçüncüsü vücudun geri kalanına gönderiyor."
   },
   {
-   "bas": 11.681,
-   "son": 15.086,
+   "bas": 11.996,
+   "son": 15.192,
    "metin": "Ahtapot yüzerken ise bu üçüncü kalp atmayı"
   },
   {
-   "bas": 14.966,
-   "son": 15.869,
+   "bas": 15.072,
+   "son": 15.925,
    "metin": "bırakıyor."
   },
   {
-   "bas": 16.199,
-   "son": 19.689,
+   "bas": 16.255,
+   "son": 20.057,
    "metin": "Kanı mavi, çünkü oksijeni bizim gibi"
   },
   {
-   "bas": 19.569,
-   "son": 22.59,
+   "bas": 19.937,
+   "son": 23.227,
    "metin": "demirle değil, bakırla taşıyor."
   },
   {
-   "bas": 22.92,
-   "son": 25.744,
+   "bas": 23.557,
+   "son": 26.752,
    "metin": "Kolları da düşünüyor. Nöronlarının"
   },
   {
-   "bas": 25.624,
-   "son": 28.368,
+   "bas": 26.632,
+   "son": 29.736,
    "metin": "yaklaşık üçte ikisi kollarında ve"
   },
   {
-   "bas": 28.248,
-   "son": 31.311,
+   "bas": 29.616,
+   "son": 33.082,
    "metin": "2.000'den fazla vantuzu yönetiyorlar."
   },
   {
-   "bas": 31.641,
-   "son": 33.913,
+   "bas": 33.412,
+   "son": 35.843,
    "metin": "Rengini, desenini, hatta derisinin"
   },
   {
-   "bas": 33.793,
-   "son": 36.129,
+   "bas": 35.723,
+   "son": 38.222,
    "metin": "dokusunu bir anda değiştirebiliyor;"
   },
   {
-   "bas": 36.009,
-   "son": 38.661,
+   "bas": 38.102,
+   "son": 40.941,
    "metin": "üstelik gözlerinde yalnızca tek tür renk"
   },
   {
-   "bas": 38.541,
-   "son": 40.37,
+   "bas": 40.821,
+   "son": 42.776,
    "metin": "algılayıcı olmasına rağmen."
   },
   {
-   "bas": 40.7,
-   "son": 43.641,
+   "bas": 43.106,
+   "son": 45.929,
    "metin": "Ve bütün bunlara rağmen sadece bir ila iki"
   },
   {
-   "bas": 43.521,
-   "son": 46.395,
+   "bas": 45.809,
+   "son": 48.568,
    "metin": "yıl yaşıyor. Daha fazla zamanı olsa neler"
   },
   {
-   "bas": 46.275,
-   "son": 48.074,
+   "bas": 48.448,
+   "son": 50.176,
    "metin": "öğrenebilirdi, bir düşün."
   }
  ],
- "toplam": 51.25,
+ "toplam": 53.36,
  "logo": "doku/logo.png",
- "omni": false,
+ "omni": true,
+ "en_fazla_klip": 2,
  "ses": "Gemini Algieba"
 }

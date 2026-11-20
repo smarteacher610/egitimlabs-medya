@@ -1,55 +1,55 @@
 1
-00:00:00,150 --> 00:00:02,483
+00:00:00,150 --> 00:00:02,728
 This animal has three hearts.
 
 2
-00:00:02,763 --> 00:00:04,922
+00:00:03,008 --> 00:00:05,637
 And its blood is blue.
 
 3
-00:00:05,372 --> 00:00:07,915
+00:00:06,087 --> 00:00:08,612
 Two hearts push blood through the gills.
 
 4
-00:00:08,195 --> 00:00:11,080
+00:00:08,892 --> 00:00:11,249
 The third sends it to the rest of the body.
 
 5
-00:00:11,360 --> 00:00:15,699
+00:00:11,529 --> 00:00:15,755
 And when the octopus swims, that third heart stops beating.
 
 6
-00:00:16,149 --> 00:00:20,397
+00:00:16,205 --> 00:00:20,826
 Its blood is blue because it carries oxygen with copper,
 
 7
-00:00:20,677 --> 00:00:22,420
+00:00:21,106 --> 00:00:23,057
 not with iron like ours.
 
 8
-00:00:22,870 --> 00:00:24,481
+00:00:23,507 --> 00:00:25,563
 Its arms think, too.
 
 9
-00:00:24,761 --> 00:00:28,118
+00:00:25,843 --> 00:00:29,894
 About two thirds of its neurons are in its arms,
 
 10
-00:00:28,398 --> 00:00:31,141
+00:00:30,174 --> 00:00:32,912
 working more than two thousand suckers.
 
 11
-00:00:31,591 --> 00:00:36,390
+00:00:33,362 --> 00:00:38,745
 It can change its colour, pattern and even skin texture in a flash,
 
 12
-00:00:36,670 --> 00:00:40,200
+00:00:39,025 --> 00:00:42,606
 even though its eyes have only one kind of colour receptor.
 
 13
-00:00:40,650 --> 00:00:44,673
+00:00:43,056 --> 00:00:46,899
 And with all of this, it lives only one to two years.
 
 14
-00:00:44,953 --> 00:00:47,904
+00:00:47,179 --> 00:00:50,006
 Imagine what it could learn with more time.
