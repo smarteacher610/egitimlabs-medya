@@ -5,7 +5,7 @@
    "kanca": "The world's biggest *soda lake*",
    "kanca_ust": 320,
    "bas": 0.15,
-   "son": 10.132
+   "son": 9.468
   },
   {
    "tip": "harita",
@@ -29,22 +29,22 @@
      "dy": -10
     }
    ],
-   "bas": 10.132,
-   "son": 20.584,
-   "sayi_bas": 4.202,
+   "bas": 9.468,
+   "son": 20.002,
+   "sayi_bas": 4.189,
    "sayi_sure": 1.5
   },
   {
-   "tip": "kristal",
+   "tip": "ph",
    "etiket": "Soda water · Sodalı su",
    "sayi": 9.8,
    "ondalik": 1,
    "on": "pH ",
    "birim": "strongly alkaline",
    "sayi_kelime": "nine point eight",
-   "bas": 20.584,
-   "son": 33.456,
-   "sayi_bas": 10.955,
+   "bas": 20.002,
+   "son": 34.568,
+   "sayi_bas": 11.284,
    "sayi_sure": 1.5
   },
   {
@@ -56,24 +56,24 @@
    "son_ek": " m",
    "birim": "tall towers built by bacteria",
    "sayi_kelime": "forty metres",
-   "bas": 33.456,
-   "son": 43.389,
-   "sayi_bas": 4.564,
+   "bas": 34.568,
+   "son": 44.252,
+   "sayi_bas": 4.463,
    "sayi_sure": 1.5,
    "temsili": true,
    "klip_id": "342e3596dd2a5ecd",
    "klip_kare": 240
   },
   {
-   "tip": "katman",
+   "tip": "karot",
    "etiket": "Climate record · İklim kaydı",
    "sayi": 600,
    "son_ek": "K",
    "birim": "years of climate history",
    "sayi_kelime": "six hundred thousand",
-   "bas": 43.389,
-   "son": 51.366,
-   "sayi_bas": 4.484,
+   "bas": 44.252,
+   "son": 53.294,
+   "sayi_bas": 5.117,
    "sayi_sure": 1.5
   },
   {
@@ -81,111 +81,112 @@
    "kanca": "What else is it *hiding*?",
    "kanca_ust": 330,
    "pinler": [],
-   "bas": 51.366,
-   "son": 60.464
+   "bas": 53.294,
+   "son": 60.925
   },
   {
    "tip": "kapanis",
    "yazi": "Daha fazlası için takip et",
    "tus": "Takip et",
    "sure": 2.4,
-   "bas": 60.464,
-   "son": 62.864
+   "bas": 60.925,
+   "son": 63.325
   }
  ],
  "altyazi": [
   {
    "bas": 0.2,
-   "son": 3.85,
+   "son": 3.605,
    "metin": "Dünyanın en büyük sodalı gölü Türkiye'de"
   },
   {
-   "bas": 3.73,
-   "son": 7.557,
+   "bas": 3.485,
+   "son": 7.053,
    "metin": "saklanıyor. Ve yüzeyinin altında, kimsenin"
   },
   {
-   "bas": 7.437,
-   "son": 9.852,
+   "bas": 6.933,
+   "son": 9.188,
    "metin": "inşa etmediği kuleler var."
   },
   {
-   "bas": 10.182,
-   "son": 13.914,
+   "bas": 9.518,
+   "son": 13.28,
    "metin": "Burası Van Gölü. Doğu Anadolu'da, deniz"
   },
   {
-   "bas": 13.794,
-   "son": 16.97,
+   "bas": 13.16,
+   "son": 16.36,
    "metin": "seviyesinden yaklaşık 1.640 metre"
   },
   {
-   "bas": 16.85,
-   "son": 20.304,
+   "bas": 16.24,
+   "son": 19.722,
    "metin": "yüksekte. Türkiye'nin en büyük gölü."
   },
   {
-   "bas": 20.634,
-   "son": 24.279,
+   "bas": 20.052,
+   "son": 23.809,
    "metin": "Nehirler göle akıyor ama gölden hiçbir şey"
   },
   {
-   "bas": 24.159,
-   "son": 27.133,
+   "bas": 23.689,
+   "son": 26.753,
    "metin": "çıkmıyor. Su yalnızca buharlaşarak"
   },
   {
-   "bas": 27.013,
-   "son": 30.658,
+   "bas": 26.633,
+   "son": 30.39,
    "metin": "ayrılıyor; bu yüzden göl güçlü bir şekilde"
   },
   {
-   "bas": 30.538,
-   "son": 33.176,
+   "bas": 30.27,
+   "son": 32.988,
    "metin": "bazik, pH değeri yaklaşık 9,8."
   },
   {
-   "bas": 33.506,
-   "son": 37.493,
+   "bas": 34.618,
+   "son": 38.504,
    "metin": "Derinlerde ise bakteriler 40 metreye kadar"
   },
   {
-   "bas": 37.373,
-   "son": 41.359,
+   "bas": 38.384,
+   "son": 42.269,
    "metin": "yükselen taş kuleler ördü; türünün bilinen"
   },
   {
-   "bas": 41.239,
-   "son": 43.109,
+   "bas": 42.149,
+   "son": 43.972,
    "metin": "en büyük örnekleri."
   },
   {
-   "bas": 43.439,
-   "son": 47.033,
+   "bas": 44.302,
+   "son": 48.388,
    "metin": "Gölün çamuru da bir günlük tutuyor. Katman"
   },
   {
-   "bas": 46.913,
-   "son": 50.176,
+   "bas": 48.268,
+   "son": 51.976,
    "metin": "katman, 600.000 yıllık iklim geçmişini"
   },
   {
-   "bas": 50.056,
-   "son": 51.086,
+   "bas": 51.856,
+   "son": 53.014,
    "metin": "kaydediyor."
   },
   {
-   "bas": 51.416,
-   "son": 55.881,
+   "bas": 53.344,
+   "son": 57.027,
    "metin": "Hem laboratuvar, hem müze, hem de günlük"
   },
   {
-   "bas": 55.761,
-   "son": 59.684,
+   "bas": 56.907,
+   "son": 60.145,
    "metin": "olan bir göl. Başka neler saklıyor?"
   }
  ],
- "toplam": 62.86,
+ "toplam": 63.33,
  "logo": "doku/logo.png",
+ "omni": false,
  "ses": "Gemini Algieba"
 }
