@@ -1,0 +1,191 @@
+{
+ "sahneler": [
+  {
+   "tip": "dunya",
+   "kanca": "The world's biggest *soda lake*",
+   "kanca_ust": 320,
+   "bas": 0.15,
+   "son": 10.132
+  },
+  {
+   "tip": "harita",
+   "etiket": "Lake Van · Van Gölü",
+   "sayi": 1640,
+   "son_ek": " m",
+   "birim": "above sea level",
+   "sayi_kelime": "one thousand six hundred",
+   "pinler": [
+    {
+     "ad": "Lake Van",
+     "alt": "Van Gölü",
+     "lon": 42.9,
+     "lat": 38.65,
+     "renk": [
+      0.35,
+      0.8,
+      1.0
+     ],
+     "dx": -110,
+     "dy": -10
+    }
+   ],
+   "bas": 10.132,
+   "son": 20.584,
+   "sayi_bas": 4.202,
+   "sayi_sure": 1.5
+  },
+  {
+   "tip": "kristal",
+   "etiket": "Soda water · Sodalı su",
+   "sayi": 9.8,
+   "ondalik": 1,
+   "on": "pH ",
+   "birim": "strongly alkaline",
+   "sayi_kelime": "nine point eight",
+   "bas": 20.584,
+   "son": 33.456,
+   "sayi_bas": 10.955,
+   "sayi_sure": 1.5
+  },
+  {
+   "tip": "klip",
+   "en_carpici": true,
+   "klip": "Underwater view deep in a green-blue alkaline lake: giant pale grey limestone microbialite towers, like stone chimneys, rising from the lake floor into hazy light, fine particles floating, slow forward glide past the towers",
+   "etiket": "Microbialites · Mikrobiyalitler",
+   "sayi": 40,
+   "son_ek": " m",
+   "birim": "tall towers built by bacteria",
+   "sayi_kelime": "forty metres",
+   "bas": 33.456,
+   "son": 43.389,
+   "sayi_bas": 4.564,
+   "sayi_sure": 1.5,
+   "temsili": true,
+   "klip_id": "342e3596dd2a5ecd",
+   "klip_kare": 240
+  },
+  {
+   "tip": "katman",
+   "etiket": "Climate record · İklim kaydı",
+   "sayi": 600,
+   "son_ek": "K",
+   "birim": "years of climate history",
+   "sayi_kelime": "six hundred thousand",
+   "bas": 43.389,
+   "son": 51.366,
+   "sayi_bas": 4.484,
+   "sayi_sure": 1.5
+  },
+  {
+   "tip": "soru",
+   "kanca": "What else is it *hiding*?",
+   "kanca_ust": 330,
+   "pinler": [],
+   "bas": 51.366,
+   "son": 60.464
+  },
+  {
+   "tip": "kapanis",
+   "yazi": "Daha fazlası için takip et",
+   "tus": "Takip et",
+   "sure": 2.4,
+   "bas": 60.464,
+   "son": 62.864
+  }
+ ],
+ "altyazi": [
+  {
+   "bas": 0.2,
+   "son": 3.85,
+   "metin": "Dünyanın en büyük sodalı gölü Türkiye'de"
+  },
+  {
+   "bas": 3.73,
+   "son": 7.557,
+   "metin": "saklanıyor. Ve yüzeyinin altında, kimsenin"
+  },
+  {
+   "bas": 7.437,
+   "son": 9.852,
+   "metin": "inşa etmediği kuleler var."
+  },
+  {
+   "bas": 10.182,
+   "son": 13.914,
+   "metin": "Burası Van Gölü. Doğu Anadolu'da, deniz"
+  },
+  {
+   "bas": 13.794,
+   "son": 16.97,
+   "metin": "seviyesinden yaklaşık 1.640 metre"
+  },
+  {
+   "bas": 16.85,
+   "son": 20.304,
+   "metin": "yüksekte. Türkiye'nin en büyük gölü."
+  },
+  {
+   "bas": 20.634,
+   "son": 24.279,
+   "metin": "Nehirler göle akıyor ama gölden hiçbir şey"
+  },
+  {
+   "bas": 24.159,
+   "son": 27.133,
+   "metin": "çıkmıyor. Su yalnızca buharlaşarak"
+  },
+  {
+   "bas": 27.013,
+   "son": 30.658,
+   "metin": "ayrılıyor; bu yüzden göl güçlü bir şekilde"
+  },
+  {
+   "bas": 30.538,
+   "son": 33.176,
+   "metin": "bazik, pH değeri yaklaşık 9,8."
+  },
+  {
+   "bas": 33.506,
+   "son": 37.493,
+   "metin": "Derinlerde ise bakteriler 40 metreye kadar"
+  },
+  {
+   "bas": 37.373,
+   "son": 41.359,
+   "metin": "yükselen taş kuleler ördü; türünün bilinen"
+  },
+  {
+   "bas": 41.239,
+   "son": 43.109,
+   "metin": "en büyük örnekleri."
+  },
+  {
+   "bas": 43.439,
+   "son": 47.033,
+   "metin": "Gölün çamuru da bir günlük tutuyor. Katman"
+  },
+  {
+   "bas": 46.913,
+   "son": 50.176,
+   "metin": "katman, 600.000 yıllık iklim geçmişini"
+  },
+  {
+   "bas": 50.056,
+   "son": 51.086,
+   "metin": "kaydediyor."
+  },
+  {
+   "bas": 51.416,
+   "son": 55.881,
+   "metin": "Hem laboratuvar, hem müze, hem de günlük"
+  },
+  {
+   "bas": 55.761,
+   "son": 59.684,
+   "metin": "olan bir göl. Başka neler saklıyor?"
+  }
+ ],
+ "toplam": 62.86,
+ "logo": "doku/logo.png",
+ "ses": "Gemini Algieba"
+}
