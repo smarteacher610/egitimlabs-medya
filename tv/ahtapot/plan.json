@@ -1,0 +1,161 @@
+{
+ "sahneler": [
+  {
+   "tip": "kalp",
+   "kanca": "Three hearts and *blue blood*",
+   "kanca_ust": 320,
+   "bas": 0.15,
+   "son": 5.529
+  },
+  {
+   "tip": "kalp",
+   "durdur": true,
+   "etiket": "Octopus · Ahtapot",
+   "sayi": 3,
+   "birim": "hearts",
+   "sayi_kelime": "two hearts",
+   "bas": 5.529,
+   "son": 17.661,
+   "sayi_bas": -0.1,
+   "sayi_sure": 1.5
+  },
+  {
+   "tip": "kristal",
+   "etiket": "Hemocyanin · Hemosiyanin",
+   "birim": "copper carries the oxygen",
+   "bas": 17.661,
+   "son": 24.337
+  },
+  {
+   "tip": "kol",
+   "etiket": "Neurons · Nöronlar",
+   "sayi": 2000,
+   "son_ek": "+",
+   "birim": "suckers",
+   "not": "2/3 of its neurons are in its arms · Nöronlarının 2/3'ü kollarında",
+   "sayi_kelime": "two thousand",
+   "bas": 24.337,
+   "son": 33.153,
+   "sayi_bas": 6.929,
+   "sayi_sure": 1.5
+  },
+  {
+   "tip": "klip",
+   "en_carpici": true,
+   "klip": "Close-up of a common octopus on a rocky reef rapidly changing the colour and texture of its skin to camouflage against the rocks, waves of colour rippling across its body, clear blue water, soft sunlight",
+   "etiket": "Camouflage · Kamuflaj",
+   "bas": 33.153,
+   "son": 44.02,
+   "temsili": true,
+   "klip_id": "144dece75e7a19f8",
+   "klip_kare": 240
+  },
+  {
+   "tip": "soru",
+   "arka": "derin",
+   "kanca": "Imagine what it could *learn*",
+   "kanca_ust": 330,
+   "bas": 44.02,
+   "son": 52.619
+  },
+  {
+   "tip": "kapanis",
+   "yazi": "Daha fazlası için takip et",
+   "tus": "Takip et",
+   "sure": 2.4,
+   "bas": 52.619,
+   "son": 55.019
+  }
+ ],
+ "altyazi": [
+  {
+   "bas": 0.2,
+   "son": 5.249,
+   "metin": "Bu hayvanın üç kalbi var. Ve kanı mavi."
+  },
+  {
+   "bas": 5.579,
+   "son": 9.062,
+   "metin": "İki kalp kanı solungaçlara pompalıyor."
+  },
+  {
+   "bas": 8.942,
+   "son": 12.779,
+   "metin": "Üçüncüsü vücudun geri kalanına gönderiyor."
+  },
+  {
+   "bas": 12.659,
+   "son": 16.496,
+   "metin": "Ahtapot yüzerken ise bu üçüncü kalp atmayı"
+  },
+  {
+   "bas": 16.376,
+   "son": 17.381,
+   "metin": "bırakıyor."
+  },
+  {
+   "bas": 17.711,
+   "son": 21.176,
+   "metin": "Kanı mavi, çünkü oksijeni bizim gibi"
+  },
+  {
+   "bas": 21.056,
+   "son": 24.057,
+   "metin": "demirle değil, bakırla taşıyor."
+  },
+  {
+   "bas": 24.387,
+   "son": 27.242,
+   "metin": "Kolları da düşünüyor. Nöronlarının"
+  },
+  {
+   "bas": 27.122,
+   "son": 29.897,
+   "metin": "yaklaşık üçte ikisi kollarında ve"
+  },
+  {
+   "bas": 29.777,
+   "son": 32.873,
+   "metin": "2.000'den fazla vantuzu yönetiyorlar."
+  },
+  {
+   "bas": 33.203,
+   "son": 35.928,
+   "metin": "Rengini, desenini, hatta derisinin"
+  },
+  {
+   "bas": 35.808,
+   "son": 38.608,
+   "metin": "dokusunu bir anda değiştirebiliyor;"
+  },
+  {
+   "bas": 38.488,
+   "son": 41.672,
+   "metin": "üstelik gözlerinde yalnızca tek tür renk"
+  },
+  {
+   "bas": 41.552,
+   "son": 43.74,
+   "metin": "algılayıcı olmasına rağmen."
+  },
+  {
+   "bas": 44.07,
+   "son": 47.165,
+   "metin": "Ve bütün bunlara rağmen sadece bir ila iki"
+  },
+  {
+   "bas": 47.045,
+   "son": 50.068,
+   "metin": "yıl yaşıyor. Daha fazla zamanı olsa neler"
+  },
+  {
+   "bas": 49.948,
+   "son": 51.839,
+   "metin": "öğrenebilirdi, bir düşün."
+  }
+ ],
+ "toplam": 55.02,
+ "logo": "doku/logo.png",
+ "omni": true,
+ "ses": "Gemini Algieba"
+}
