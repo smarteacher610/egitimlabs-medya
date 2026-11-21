@@ -1,0 +1,25 @@
+[[A0]]
+[:] Colours, colours, everywhere!
+[[B1]]
+[:] Red, red, a big red apple,
+[:] Blue, blue, a big blue whale,
+[:] Yellow, yellow, the yellow sun,
+[:] Colours, colours, so much fun!
+[[C2]]
+[:] Look around, look around,
+[:] What colours have you found?
+[:] Look around, look around,
+[:] Colours all around!
+[[B3]]
+[:] Green, green, a little green frog,
+[:] Pink, pink, a happy pink pig,
+[:] Orange, orange, an orange fish,
+[:] Purple, purple, make a wish!
+[[C4]]
+[:] Look around, look around,
+[:] What colours have you found?
+[:] Look around, look around,
+[:] Colours all around!
+[[D5]]
+[[E6]]
+[:] Colours, colours, everywhere!
