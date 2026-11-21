@@ -1,5 +1,5 @@
 {
- "anahtar": "71e636c54791",
+ "anahtar": "945902889f05",
  "model": "lyria-3.5",
- "sozler_lyria": "[[A0]]\n[:] Colours, colours, everywhere!\n[[B1]]\n[:] Red, red, a big red apple,\n[:] Blue, blue, a big blue whale,\n[:] Yellow, yellow, the yellow sun,\n[:] Colours, colours, so much fun!\n[[C2]]\n[:] Look around, look around,\n[:] What colours have you found?\n[:] Look around, look around,\n[:] Colours all around!\n[[B3]]\n[:] Green, green, a little green frog,\n[:] Pink, pink, a pretty pink flower,\n[:] Orange, orange, an orange fish,\n[:] Purple, purple, a purple star!\n[[C4]]\n[:] Look around, look around,\n[:] What colours have you found?\n[:] Look around, look around,\n[:] Colours all around!\n[[D5]]\n[[E6]]\n[:] Colours, colours, everywhere!"
+ "sozler_lyria": "[[A0]]\n[0.0:] Colours, colours, everywhere!\n[[B1]]\n[4.4:] Red, red, a big red apple,\n[6.5:] Blue, blue, a big blue whale,\n[8.7:] Yellow, yellow, the yellow sun,\n[10.9:] Colours, colours, so much fun!\n[[C2]]\n[13.1:] Look around, look around,\n[15.3:] What colours have you found?\n[17.4:] Look around, look around,\n[19.6:] Colours all around!\n[[B3]]\n[21.8:] Green, green, a little green frog,\n[24.0:] Pink, pink, a pretty pink flower,\n[26.2:] Orange, orange, an orange fish,\n[28.4:] Purple, purple, a purple balloon!\n[[C4]]\n[30.6:] Look around, look around,\n[32.7:] What colours have you found?\n[34.9:] Look around, look around,\n[37.1:] Colours all around!\n[[D5]]\n[39.3:] Colours, colours, everywhere!"
 }
