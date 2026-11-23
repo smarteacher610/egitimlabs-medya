@@ -1,0 +1,206 @@
+{
+ "sahneler": [
+  {
+   "tip": "stok",
+   "kanca": "A waterfall made of *stone*",
+   "kanca_ust": 320,
+   "pixabay_id": 376279,
+   "bas": 0.15,
+   "son": 8.654,
+   "klip_id": "stok0",
+   "klip_kare": 235
+  },
+  {
+   "tip": "harita",
+   "etiket": "Pamukkale · Denizli",
+   "birim": "\"cotton castle\"",
+   "pinler": [
+    {
+     "ad": "Pamukkale",
+     "alt": "Denizli",
+     "lon": 29.12,
+     "lat": 37.92,
+     "renk": [
+      1.0,
+      1.0,
+      1.0
+     ],
+     "dx": -110,
+     "dy": -10
+    }
+   ],
+   "bas": 8.654,
+   "son": 15.73
+  },
+  {
+   "tip": "stok",
+   "etiket": "Hot springs · Sıcak kaynaklar",
+   "sayi": 17,
+   "birim": "hot springs",
+   "sayi_kelime": "seventeen",
+   "terim": "dissolved · çözünmüş",
+   "pixabay_id": 376276,
+   "bas": 15.73,
+   "son": 29.028,
+   "sayi_bas": -0.1,
+   "sayi_sure": 1.5,
+   "klip_id": "stok2",
+   "klip_kare": 240
+  },
+  {
+   "tip": "stok",
+   "etiket": "Travertine · Traverten",
+   "sayi": 2700,
+   "son_ek": " m",
+   "birim": "of white terraces",
+   "sayi_kelime": "two thousand seven hundred",
+   "terim": "terraces · teraslar",
+   "pixabay_id": 376271,
+   "bas": 29.028,
+   "son": 36.789,
+   "sayi_bas": 4.312,
+   "sayi_sure": 1.5,
+   "klip_id": "stok3",
+   "klip_kare": 240
+  },
+  {
+   "tip": "klip",
+   "en_carpici": true,
+   "klip": "Cinematic slow aerial shot gliding down onto the ancient Roman spa city of Hierapolis about two thousand years ago, built on top of brilliant white travertine terraces: marble colonnades, temples and a theatre on the hillside, people in Roman tunics bathing in steaming turquoise thermal pools between marble columns, warm golden late-afternoon light, realistic, one continuous camera move",
+   "etiket": "Hierapolis",
+   "sayi": 2000,
+   "son_ek": "+",
+   "birim": "years old",
+   "sayi_kelime": "two thousand",
+   "terim": "sunken · batık",
+   "bas": 36.789,
+   "son": 48.546,
+   "sayi_bas": 4.656,
+   "sayi_sure": 1.5,
+   "temsili": true,
+   "klip_id": "3d76dd1f7d18edec",
+   "klip_kare": 240
+  },
+  {
+   "tip": "stok",
+   "kanca": "Would you *dare*?",
+   "kanca_ust": 330,
+   "terim": "heritage · miras",
+   "pixabay_id": 376274,
+   "bas": 48.546,
+   "son": 59.678,
+   "klip_id": "stok5",
+   "klip_kare": 240
+  },
+  {
+   "tip": "kapanis",
+   "yazi": "Daha fazlası için takip et",
+   "tus": "Takip et",
+   "sure": 2.4,
+   "bas": 59.678,
+   "son": 62.078
+  }
+ ],
+ "altyazi": [
+  {
+   "bas": 0.2,
+   "son": 4.83,
+   "metin": "Donmuş bir şelaleye benziyor. Ama buradaki"
+  },
+  {
+   "bas": 4.71,
+   "son": 8.374,
+   "metin": "su sıcak… ve o beyazlık katı taş."
+  },
+  {
+   "bas": 8.704,
+   "son": 12.266,
+   "metin": "Burası Pamukkale, Türkiye'nin batısında."
+  },
+  {
+   "bas": 12.146,
+   "son": 15.45,
+   "metin": "Adı \"pamuktan kale\" anlamına geliyor."
+  },
+  {
+   "bas": 15.78,
+   "son": 19.092,
+   "metin": "Burada, içi çözünmüş kalsiyum karbonatla"
+  },
+  {
+   "bas": 18.972,
+   "son": 21.965,
+   "metin": "dolu on yedi sıcak su kaynağı yüzeye"
+  },
+  {
+   "bas": 21.845,
+   "son": 24.918,
+   "metin": "çıkıyor. Su havayla buluşunca mineral"
+  },
+  {
+   "bas": 24.798,
+   "son": 27.95,
+   "metin": "geride kalıyor ve sertleşip travertene"
+  },
+  {
+   "bas": 27.83,
+   "son": 28.748,
+   "metin": "dönüşüyor."
+  },
+  {
+   "bas": 29.078,
+   "son": 32.721,
+   "metin": "Katman katman, yaklaşık iki bin yedi yüz"
+  },
+  {
+   "bas": 32.601,
+   "son": 35.98,
+   "metin": "metre uzunluğunda beyaz teraslar inşa"
+  },
+  {
+   "bas": 35.86,
+   "son": 36.509,
+   "metin": "etmiş."
+  },
+  {
+   "bas": 36.839,
+   "son": 40.257,
+   "metin": "Tepede, iki bin yıldan daha eski bir antik"
+  },
+  {
+   "bas": 40.137,
+   "son": 43.476,
+   "metin": "kaplıca kenti olan Hierapolis yer alıyor."
+  },
+  {
+   "bas": 43.356,
+   "son": 46.381,
+   "metin": "Bugün suya batmış mermer sütunlarının"
+  },
+  {
+   "bas": 46.261,
+   "son": 48.266,
+   "metin": "arasında yüzebilirsiniz."
+  },
+  {
+   "bas": 48.596,
+   "son": 52.654,
+   "metin": "1988'den beri UNESCO Dünya Mirası. Pamuğa"
+  },
+  {
+   "bas": 52.534,
+   "son": 56.113,
+   "metin": "benzeyen taştan bir kalenin üzerinde"
+  },
+  {
+   "bas": 55.993,
+   "son": 58.898,
+   "metin": "yürümeye cesaret eder miydin?"
+  }
+ ],
+ "toplam": 62.08,
+ "logo": "doku/logo.png",
+ "omni": true,
+ "en_fazla_klip": 1,
+ "ses": "Gemini Algieba"
+}
